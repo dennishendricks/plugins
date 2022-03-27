@@ -645,5 +645,14 @@
     "package": "netlify-plugin-cloudinary",
     "repo": "https://github.com/colbyfayock/netlify-plugin-cloudinary",
     "version": "1.0.3"
+  },
+  ,
+  {
+    "author": "Dennis Hendricks",
+    "description": "Minimize HTML files using HTMLMinifier",
+    "name": "Terser HTML Minifier",
+    "package": "netlify-plugin-terser-html-minifier",
+    "repo": "https://github.com/dennishendricks/netlify-plugin-terser-html-minifier",
+    "version": "0.1.0"
   }
 ]
